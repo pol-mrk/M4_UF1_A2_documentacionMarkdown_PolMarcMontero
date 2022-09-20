@@ -49,3 +49,10 @@
   </body>
   </html>
 ```
+7. ¿Qué es ``CSS``?
+
+
+   CSS es un lenguaje usado para dar estilo a un documento HTML. CSS describe como los elementos HTML deberían ser mostrados.
+   
+8. Flujo de trabajo (navegador, petición, servidor y respuesta):
+   ![image](https://user-images.githubusercontent.com/90915799/134023030-281591c8-f9ac-435e-8dd7-dd178d536283.png)
