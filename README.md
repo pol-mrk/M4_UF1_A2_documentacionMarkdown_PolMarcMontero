@@ -1,16 +1,24 @@
 # Evaluación inicial
 
 1. ¿Qué es una página web?
-Conjunto de información que se encuentra en una dirección determinada de internet.
+
+
+   Conjunto de información que se encuentra en una dirección determinada de internet.
 
 2. ¿Qué es un sitio web?
-Conjunto de páginas web relacionadas entre ellas, subidas a un dominio de internet.
+
+
+   Conjunto de páginas web relacionadas entre ellas, subidas a un dominio de internet.
 
 3. ¿Qué es una aplicación web?
-Una aplicación web es una herramienta que los usuarios puededn utilizar mediante un navegador web.
+
+
+   Una aplicación web es una herramienta que los usuarios puededn utilizar mediante un navegador web.
 
 4. ¿Qué es una herramienta ofimática?
-Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación.
+
+
+   Es una aplicación (en local o en linea) que permite editar un texto, una hoja de cálculo, una presentación.
 
 5. [Herramientas de google](https://www.google.com/intl/es-419/chrome/browser-tools/):
 
@@ -24,7 +32,9 @@ Es una aplicación (en local o en linea) que permite editar un texto, una hoja d
    | ... | ... |
 
 6. ¿Qué es ``HTML``?
-    Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
+
+
+   Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 
 ```html
   <!DOCTYPE html>
