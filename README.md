@@ -57,4 +57,4 @@
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
 
-![image](https://user-images.githubusercontent.com/90915799/134023030-281591c8-f9ac-435e-8dd7-dd178d536283.png)
+   ![image](https://user-images.githubusercontent.com/90915799/134023030-281591c8-f9ac-435e-8dd7-dd178d536283.png)
